@@ -1,0 +1,4 @@
+548fe0,127.0.0.1,GET,http://localhost:8000/,1473439286,,200
+357885,127.0.0.1,GET,http://localhost:8000/room/all?_format=json,1473439294,,200
+58b043,127.0.0.1,GET,http://localhost:8000/,1473440350,,200
+07d58e,::1,GET,http://localhost/AllDj/web/app_dev.php/,1492192790,,200
